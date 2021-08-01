@@ -1,6 +1,6 @@
-<p>
-    <img width="840" src="github banner.png">
- </p>
+<div>
+    <img height="272em" src="github banner.png">
+ </div>
    
 <div>
   <a href="https://github.com/Roberto-Junior">
