@@ -1,5 +1,3 @@
-Seja bem-vindo 😁
- 
 <p>
     <img width="840" src="github banner.png">
  </p>
