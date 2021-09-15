@@ -1,6 +1,8 @@
 Repositórios principais:
 - [Regressao Linear](https://github.com/Roberto-Junior/RegressaoLinear): O objetivo deste repositório é explicar todos os conceitos matemáticos que envolvem este algoritmo de machine learning e também mostrar como aplicar o modelo usando a biblioteca scikit-learn. São abordados conceitos como matriz, multiplicação entre matrizes, erro MAE (Mean absolute error), SVD (Singular Value Decomposition), entre outros. Por fim, é aplicado o modelo em um problema complexo: traçar o perfil de um investidor na renda variável e indicar ações de acordo com seu perfil.
 
+- [Einstein evolutivo](https://github.com/Roberto-Junior/Einstein-evolutivo): O objetivo deste repositório é aplicar um algoritmo neuroevolutivo em um jogo. A Neuroevolução é um método que consiste na utilização de um algoritmo genético para otimizar os pesos sinápticos de uma rede neural artificial. Esse algoritmo de inteligência artificial controla os movimentos do personagem no jogo e, após vários processos evolutivos, aprende a joga-lo.
+
 ##
 
 <div align="center">
