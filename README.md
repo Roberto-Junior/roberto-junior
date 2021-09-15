@@ -1,3 +1,8 @@
+Repositórios principais:
+- [Regressao Linear](https://github.com/Roberto-Junior/RegressaoLinear): O objetivo deste repositório é explicar todos os conceitos matemáticos que envolvem este algoritmo de machine learning e também mostrar como aplicar o modelo usando a biblioteca scikit-learn. São abordados conceitos como matriz, multiplicação entre matrizes, erro MAE (Mean absolute error), SVD (Singular Value Decomposition), entre outros. Por fim, é aplicado o modelo em um problema complexo: traçar o perfil de um investidor na renda variável e indicar ações de acordo com seu perfil.
+
+##
+
 <div align="center">
   <a href="https://github.com/Roberto-Junior">
   <img height="178.9em" src="https://github-readme-stats.vercel.app/api?username=Roberto-Junior&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
