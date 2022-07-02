@@ -10,7 +10,7 @@
 #### - 🔭 I’m currently working at [Bright Cities](https://www.brightcities.city/) as Data Analyst Intern
 #### - 👨‍💻 I’m currently taking the course [Formação Engenheiro de Dados 2.0](https://www.datascienceacademy.com.br/bundle/formacao-engenheiro-de-dados) from Data Science Academy (DSA) and [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) from DataTalksClub
 
-<br><br>
+<br>
 
 ## 🛠 &nbsp;Tech Stack
     
@@ -22,7 +22,7 @@
    <img align="center" alt="html" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
 </div>
 
-<br><br>
+<br>
 
 ## 📫 &nbsp;Social Links
 
@@ -32,7 +32,7 @@
      <a href="https://stackoverflow.com/users/11069286/roberto-jr" target="_blank"> <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>
 </div>
 
-<br><br>
+<br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
