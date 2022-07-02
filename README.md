@@ -1,11 +1,14 @@
 
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Roberto-Junior/12d06d70b288b018891674db090c9a7b/raw/f764277d4f5f0160849674f1fe342405a7bc1064/githubcard.svg"/>
-<h1 align="left">Hi, I'm Roberto Domingues Junior</h1>
+
+```sh
+  "Hi, I'm Roberto Domingues Junior"
+```
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roberto-junior&color=yellow" alt="Profile views" /> </p> 
-  
-### - 🔥 Data engineer
-### - 🔭 I’m currently working at [Bright Cities](https://www.brightcities.city/) as Data Analyst Intern
-### - 👨‍💻 I’m currently taking the course [Formação Engenheiro de Dados 2.0](https://www.datascienceacademy.com.br/bundle/formacao-engenheiro-de-dados) from Data Science Academy (DSA) and [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) from DataTalksClub
+
+#### - 🔥 Data engineer
+#### - 🔭 I’m currently working at [Bright Cities](https://www.brightcities.city/) as Data Analyst Intern
+#### - 👨‍💻 I’m currently taking the course [Formação Engenheiro de Dados 2.0](https://www.datascienceacademy.com.br/bundle/formacao-engenheiro-de-dados) from Data Science Academy (DSA) and [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) from DataTalksClub
 
 <br><br>
 
