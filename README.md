@@ -11,7 +11,7 @@
 #### 🎯 Data engineer
 #### 🖥️ I’m currently working at [Bright Cities](https://www.brightcities.city/) as Data Analyst Intern
 #### 👨‍🎓 I’m currently taking two courses:
-&nbsp; &nbsp; 🔄 - [Formação Engenheiro de Dados 2.0](https://www.datascienceacademy.com.br/bundle/formacao-engenheiro-de-dados) from Data Science Academy (DSA) <br>
+&nbsp; &nbsp; 🔄 - [Formação Engenheiro de Dados 2.0](https://www.datascienceacademy.com.br/bundle/formacao-engenheiro-de-dados) from Data Science Academy <br>
 &nbsp; &nbsp; 🔄 - [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) from DataTalksClub
 
 ##
