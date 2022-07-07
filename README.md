@@ -8,15 +8,11 @@
 
 ##
 
-<br>
-
 🎯 Data engineer <br>
 🖥️ I’m currently working at [Bright Cities](https://www.brightcities.city/) as Data Analyst Intern <br>
 👨‍🎓 I’m currently taking two courses: <br>
 &nbsp; &nbsp; 🔄 [Formação Engenheiro de Dados 2.0](https://www.datascienceacademy.com.br/bundle/formacao-engenheiro-de-dados) from Data Science Academy <br>
 &nbsp; &nbsp; 🔄 [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) from DataTalksClub
-
-<br>
 
 ##
 
@@ -24,6 +20,8 @@
 
 &nbsp; &nbsp; &nbsp; 🎲 Python 🎲 SQL 🎲 Docker 🎲 Apache Airflow <br>
 &nbsp; &nbsp; &nbsp; ☁️ AWS S3, Glue and Athena ☁️ Google Storage and Google BigQuery
+
+<br>
 
 ### 📫 &nbsp;Social Links
 
