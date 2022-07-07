@@ -19,7 +19,7 @@
 ### 🛠 &nbsp;Tech Stack
 
 &nbsp; &nbsp; &nbsp; 🎲 Python 🎲 SQL 🎲 Docker 🎲 Apache Airflow <br>
-&nbsp; &nbsp; &nbsp; ☁️ AWS S3, Glue and Athena ☁️ Google Storage and Google BigQuery
+&nbsp; &nbsp; &nbsp; ☁️ AWS S3, Glue and Athena ☁️ Google Storage and BigQuery
 
 <br>
 
