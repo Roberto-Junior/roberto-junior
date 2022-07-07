@@ -22,13 +22,8 @@
 
 ### 🛠 &nbsp;Tech Stack
 
- <div style="display: inline_block" align="center"><br>
-   <img align="center" alt="python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
-  <img align="center" alt="c#" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-   <img align="center" alt="c++" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-   <img align="center" alt="html" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
-</div>
+&nbsp; &nbsp; &nbsp; 🎲 Python 🎲 SQL 🎲 Docker 🎲 Apache Airflow <br>
+&nbsp; &nbsp; &nbsp; ☁️ AWS S3, Glue and Athena ☁️ Google Storage and Google BigQuery
 
 ### 📫 &nbsp;Social Links
 
