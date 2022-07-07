@@ -18,8 +18,8 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-<h5> &nbsp; &nbsp; &nbsp; 🎲 Python 🎲 SQL 🎲 Docker 🎲 Apache Airflow 🎲 Terraform </h5>
-<h5> &nbsp; &nbsp; &nbsp; ☁️ AWS S3, Glue and Athena ☁️ Google Storage and BigQuery </h5><br>
+<h4> &nbsp; &nbsp; &nbsp; 🎲 Python 🎲 SQL 🎲 Docker 🎲 Apache Airflow 🎲 Terraform </h4>
+<h4> &nbsp; &nbsp; &nbsp; ☁️ AWS S3, Glue and Athena ☁️ Google Storage and BigQuery </h4><br>
 
 ### 📫 &nbsp;Social Links
 
