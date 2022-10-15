@@ -9,7 +9,7 @@
 ##
 
 🎯 Data engineer <br>
-🖥️ I’m currently working at [Bright Cities](https://www.brightcities.city/) as Data Analyst Intern <br>
+🖥️ I’m currently working at [Juntos Somos Mais](https://www.juntossomosmais.com.br/home/institucional) as Data Engineer <br>
 👨‍🎓 I’m currently taking two courses: <br>
 &nbsp; &nbsp; 🔄 [Formação Engenheiro de Dados 2.0](https://www.datascienceacademy.com.br/bundle/formacao-engenheiro-de-dados) from DSA <br>
 &nbsp; &nbsp; 🔄 [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) from DataTalksClub
@@ -18,8 +18,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-<h4> &nbsp; &nbsp; &nbsp; 🎲 Python 🎲 SQL 🎲 Docker 🎲 Apache Airflow 🎲 Terraform </h4>
-<h4> &nbsp; &nbsp; &nbsp; ☁️ AWS S3, Glue and Athena ☁️ Google Storage and BigQuery </h4><br>
+<h4> &nbsp; &nbsp; &nbsp; 🎲 Python 🎲 SQL 🎲 Docker 🎲 Apache Airflow 🎲 Databricks ☁️ AWS S3, Glue and Athena ☁️ Google Storage and BigQuery ☁️ Azure Blob Storage, Data Factory, Event Grid, Event Hub, Queue, Functions and logic apps</h4><br>
 
 ### 📫 &nbsp;Social Links
 
